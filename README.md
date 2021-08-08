@@ -1,1 +1,1 @@
-# myclock - html / css / js
+# Canvas Clock + Digital Clock - html / css / js
